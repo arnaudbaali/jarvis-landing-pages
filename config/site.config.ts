@@ -6,15 +6,15 @@
 export const siteConfig = {
   // ── Meta ──────────────────────────────────────────────────
   name: "SaasSwap",
-  tagline: "Buy or sell micro-SaaS in days — not months",
-  description: "A curated marketplace for indie hackers to exit side projects or acquire profitable SaaS under £10k. No brokers. No fees (early users).",
+  tagline: "Sell your side project or buy one already making money",
+  description: "A simple marketplace for indie hackers to exit or acquire micro-SaaS under £10k — without brokers or fees.",
   subdomain: "saasswap", // → saasswap.tinylabs.tech
   twitterHandle: "", // optional, e.g. "@saasswap"
 
   // ── Hero (used for metadata only — page copy is hardcoded) ─
   hero: {
-    headline: "Buy or sell micro-SaaS in days — not months",
-    subheadline: "A curated marketplace for indie hackers to exit side projects or acquire profitable SaaS under £10k.",
+    headline: "Sell your side project or buy one already making money",
+    subheadline: "A simple marketplace for indie hackers to exit or acquire micro-SaaS under £10k — without brokers or fees.",
     ctaLabel: "Get early access",
     ctaNote: "",
   },
